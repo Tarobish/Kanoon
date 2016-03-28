@@ -1,2 +1,2 @@
-# Kanoon
+# Kanun
 Persian/Arabic Font Project
